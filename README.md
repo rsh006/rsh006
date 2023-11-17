@@ -1,6 +1,6 @@
 ![logo](https://github.com/rsh006/rsh006/blob/main/1598068276622.jpg)
 <h1 align="center">Hi 👋, I'm Ronas Shakya</h1>
-<h3 align="center">A passionate researcher</h3>
+<h3 align="center">A passionate Data Analyst</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/0*0JBZx8rioVbrR4vJ.gif">
 
